@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello test again
+=======
+Test again
+>>>>>>> Adam
