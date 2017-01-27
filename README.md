@@ -1,3 +1,7 @@
 # Game-Project
 S&amp;L Group
-Name: Sy Truong
+
+Members:
+1. Sy Truong
+2. Nguyen Nguyen
+3. Long Nguyen
